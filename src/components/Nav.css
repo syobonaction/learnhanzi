@@ -4,7 +4,7 @@ ul {
     text-align: center;
     li {
         display: inline-block;
-        padding: 2rem;
+        padding: 0rem 2rem;
         a {
             text-decoration: none;
             font: 2rem Helvetica, sans-serif;
